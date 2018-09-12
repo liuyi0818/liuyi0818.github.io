@@ -1,37 +1,101 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/liuyi0818/liuyi0818.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Yi Liu</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div style="height:100px;margin:0px 0px 20px 0px;text-align:center;">
+<span style="font-size:40pt;line-height:100px;">Welcome to Yi Liu's Homepage!</span>
+</div>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<table cellpadding="0" cellspacing="0" border="0" width="95%" >
+<tr>
+<td width="250px" >
+<img SRC="1.jpg" ALIGN="BOTTOM" BORDER="0" width="200px" >
+</td>   
 
-- Bulleted
-- List
+<td valign="top">
+<br />
+<br />
+<b> Yi Liu(刘艺)</b><br>
+<br />
+Graduate students <br>
+<A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A><br>
+<A HREF="http://www.hnu.edu.cn/">Hunan University</A><br>
+<br />
+Address: <br>
+Room 316, College of Computer Science and Electronic Engineering,<br>
+Hunan University, Yuelu District, <br>
+Changsha, Hunan, China, <br>
+410082<br>
+<br />
+Email: liuyi_0818@hnu.edu.cn<br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<br />
+<br />
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</td> 
+</tr>
+</table>
+<p> 
+<h2>Self-introduction </h2>
+<hr />
+I am a graduate students at <A HREF="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</A>, <A HREF="http://www.hnu.edu.cn/">Hunan University</A>. 
+<br />
+Now my research interest is computer network,I am studying hard for this area.
+<br />
+Usually, I like watching anime and climbing.
+ 
+</p>
+<p> 
+<h2>my research area</h2>
+<hr />
 
-### Jekyll Themes
+My field of study is the computer network, the data center network. 
+<br />
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuyi0818/liuyi0818.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</p>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+<p>
+<h2>Publications </h2>
+<hr />
+<br />
+It seems that I haven't published any articles yet, but I'm trying to...
+</p> 
+<p>
+<h2>Technical experience  </h2>
+<hr />
+
+<br />
+<A HREF="Technical experience.html">Look at here...</A>
+</p> 
+
+<!-- </div> -->
+
+
+
+
+<!-- </body> -->
+
+</html>
+
+
+<style>
+hr{
+border: 0px;
+	border-top: 1px solid grey;
+}
+</style>
